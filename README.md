@@ -2,7 +2,7 @@
 
 ## フロントエンド 開発環境セットアップ
 
-### AngularJs編
+### AngularJs(mac編)
 
 ・
 
