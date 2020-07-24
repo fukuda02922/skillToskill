@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "skillToSkill"
+    }
+  },
+  "defaultProject": "skillToSkill",
+  "cli": {
+    "analytics": "35639dbe-2fbb-4c73-97bf-46d315cfdf22"
+  }
 }
